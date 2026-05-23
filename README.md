@@ -6,9 +6,9 @@
 
 ## 💌 Lời Ngỏ
 
-Đây là trang web tương tác được tôi tự tay viết code và thiết kế để tặng cho em bé của mình nhân dịp **Ngày Quốc tế Thiếu Nhi 1/6/2026**.
+Đây là trang web tương tác được tôi tự tay code và thiết kế để tặng cho em bé của mình nhân dịp **Ngày Quốc tế Thiếu Nhi 1/6/2026**.
 
-Không phải món quà đắt tiền, không phải hoa hay kẹo — chỉ là một chút tâm ý được gói ghém trong từng dòng code, từng hiệu ứng nhỏ, hy vọng khi em mở ra sẽ thấy được nụ cười. 🥰
+Không phải món quà đắt tiền, không phải hoa hay kẹo bởi vì anh xa em chỉ là một chút tình yêu được gói ghém trong từng dòng code, từng hiệu ứng nhỏ, hy vọng khi em mở ra sẽ thấy được nụ cười. 🥰
 
 ---
 
@@ -16,7 +16,7 @@ Không phải món quà đắt tiền, không phải hoa hay kẹo — chỉ là
 
 - 🎁 **Hộp quà tương tác** — nhấn vào hộp để tiến lại gần
 - 🎀 **Kéo ruy-băng** — kéo nơ để mở hộp quà
-- 🐻 **Cap� Gift Surprise — Hộp Quà Bí Mật 1/6
+- 🐻 **Gift Surprise — Hộp Quà Bí Mật 1/6
 
 > *Một món quà nhỏ được viết bằng tay, gửi tặng em bé nhân dịp Tết Thiếu Nhi 1/6/2026* 🌸
 
@@ -70,7 +70,7 @@ Hoặc deploy lên **Netlify Drop** trong 30 giây:
 
 ```
 gift-surprise.html   ← Toàn bộ project trong 1 file duy nhất
-README.md            ← File này
+README.md            
 ```
 
 ---
